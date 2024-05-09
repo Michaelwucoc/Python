@@ -28,3 +28,4 @@ update()
 
 with open("class.dat", "rb") as F:
     print(pickle.load(F))
+    print ("Test")
